@@ -6,6 +6,7 @@
 #' @param b numeric. Number of lines in the bridge.
 #' @export hit_song
 hit_song <- function(v = 4, c = 4, b = 4){
+  lyrics <- tayonce::lyrics
   verse <- sample(lyrics$line, v)
   chorus <- sample(lyrics$line, c)
   bridge <- sample(lyrics$line, b)
