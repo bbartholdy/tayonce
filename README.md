@@ -2,22 +2,22 @@
 
 ## :musical_note: Example song:
 
-'Cause if you like it, then you shoulda put a ring on it  
-I can do for you, what Martin did for the people  
-(Let's work it out)  
-Spirit, yeah, watch the heavens open, open  
+It's like you makin' love to me (oh)  
+Swizz Beatz  
+Baby boy, not a day goes by  
+I’m your suga mama (Suga mama, hey, hey)  
  
-That's how I like it, baby  
-I, I, I can back it up  
-We're standing on the sun  
-I need a thug that'll have my back  
+ Big homie better grow up  
+Cling to me oh and I'll be strong  
+That I love  
+And economic equality of the sexes  
  
-Diddy Bop, like Sean, John, John  
-Perfection is a disease of a nation  
-To come home  
-You need a real woman in your life (That's a good look)  
+ Cause I'm Dangerously In Love with you  
+Darling, you got enough for the both of us  
+'Cause you're mine  
+With the same respect that you treat the one that you humping  
  
-That's how I like it, baby  
-I, I, I can back it up  
-We're standing on the sun  
-I need a thug that'll have my back  
+ Big homie better grow up  
+Cling to me oh and I'll be strong  
+That I love  
+And economic equality of the sexes  
