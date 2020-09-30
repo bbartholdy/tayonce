@@ -10,7 +10,9 @@ hit_song <- function(v = 4, c = 4, b = 4){
   verse <- sample(lyrics$line, v)
   chorus <- sample(lyrics$line, c)
   bridge <- sample(lyrics$line, b)
-  song <- c(paste(verse, collapse = "\n"), "\n","\n",
+  title <- chorus[3]
+  song <- c(paste("##",title,"##"), "\n", "\n",
+            paste(verse, collapse = "\n"), "\n","\n",
             paste(chorus, collapse = "\n"), "\n", "\n",
             paste(bridge, collapse = "\n"), "\n", "\n",
             paste(chorus, collapse = "\n"))
