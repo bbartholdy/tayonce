@@ -2,7 +2,7 @@
 
 # Tayonc&eacute;: The best of Beyonce and Taylor Swift
 
-This is an R package inspired by TidyTuesday [week 40](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-29/readme.md). Generates a song with a verse, 2x chorus, and a bridge, using random lines from Beyonc&eacute and Taylor Swift songs.
+This is an R package inspired by TidyTuesday [week 40](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-29/readme.md), and was my slightly alternative [contribution](https://github.com/bbartholdy/tidytuesday/tree/master/29-09-2020). Generates a song with a verse, 2x chorus, and a bridge, using random lines from Beyonc&eacute; and Taylor Swift songs.
 
 ## Installing the package
 
